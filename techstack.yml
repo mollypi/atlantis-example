@@ -1,0 +1,20 @@
+repo_name: mollypi/atlantis-example
+report_id: dc67b2a5af7d11912c61ebb9cc608147
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:45:47+00:00'
+requested_by: mollypi
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/atlantis-example
+  detection_source: Repo Metadata
